@@ -1,2 +1,0 @@
-Helloo this is write method
-Helloo this is append method
